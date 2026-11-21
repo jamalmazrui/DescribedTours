@@ -1,10 +1,10 @@
 ---
 title: "Described Tours"
-subtitle: "A Directory of 50 Free Audio-Described Tours of Museums, Parks, and Landmarks"
-description: "Free recorded tours that describe museums, parks, landmarks, and historic homes for blind and low-vision visitors, each heading linking straight to the recording, and the whole set playable as one list."
+subtitle: "A Directory of 51 Free Audio-Described Tours of Notable Places, Objects, and Images"
+description: "Free recorded tours, for blind and low-vision listeners, that describe notable museums, parks, landmarks, historic homes, artworks, and images, each heading linking straight to the recording, and the whole set playable as one list."
 author: "Jamal Mazrui"
 date: "November 2026"
-version: "v1.0.0"
+version: "v1.2.1"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -18,17 +18,21 @@ keywords:
 
 ## Introduction {#introduction}
 
-Described Tours is a directory of 50 free audio-described tours of museums, parks, landmarks, and historic homes. Audio description tells you what is there, such as the size, shape, color, and setting of a painting, a room, or a landscape. An ordinary audio tour mostly tells you who made something and why it matters. These tours do the first job, and you can hear them at home, before a visit, or instead of one.
+Described Tours is a directory of 51 free audio-described tours that you can hear from anywhere. They describe notable places, objects, and images, chosen and explained by the museums, parks, and historic sites that keep them. Audio description tells you what is there, such as the size, shape, color, and setting of a painting, a room, or a landscape. An ordinary audio tour mostly tells you who made something and why it matters. These tours do both.
+
+Hearing a recorded tour is not the same as being there with a describer. In person, you also get sound, touch, scale, the people around you, and the answers to your own questions, and that context adds a great deal. Still, these tours are an enjoyable and educational way to travel by ear to sites you may never reach in person. They may also teach you enough about a place to make you want to go for the fuller experience.
 
 A tour is included when all of the following are true:
 
-- It describes what a place looks like, not only its history.
+- It is a tour you can take remotely: a guided walk through a notable place, collection, or exhibit, kept by a museum, park, or historic site. Along the way it may describe things that move, such as animals or water in your path; what matters is that it leads you through a place, stop by stop.
+- It describes what the subject looks like, not only its history.
+- It is a tour, not a described video program. Described movies, television, and documentaries are left out: there are far too many of them for one directory, and other services list them. A tour recorded as a video, walking you through a house, still counts.
 - It is free and needs no sign-in.
-- It plays at once: its heading links straight to an audio or video file, so there is no page to search for a play button.
+- Its heading opens the recording directly: an audio or video file, so there is no page to search for a play button.
 
 Tours are grouped by kind of place, under a heading at level 2 for each group. Each tour title is a heading at level 3 and a link straight to the recording. Under it comes a description, a Source page link, and the other fields in alphabetical order. A longer tour also lists its separate tracks, each a link that plays it.
 
-**The whole directory is also a play list.** [DescribedTours.m3u][p-m3u] lists every tour in the order of this page, with its title. Open it in FileDir's Homer Player (Control+Shift+H) or Play List (Control+Shift+L), or in any player that reads M3U files.
+**The whole directory is also a play list.** [DescribedTours.m3u][p-m3u] lists every tour in the order of this page, with its title, for any player that reads M3U files.
 
 After the groups come places whose recordings arrive only as a ZIP download, in an app, or in a page's own player; then where to find more, leads not yet checked, and notes. Two appendixes list the tours again by place and by title, each linking back to the full entry.
 
@@ -42,7 +46,7 @@ The list grew from the Audio Description Project (ADP) of the American Council o
 - [Government Buildings and Landmarks (6)](#cat-government-buildings-and-landmarks)
 - [Historic Homes and History Museums (22)](#cat-historic-homes-and-history-museums)
 - [National Parks and Outdoor Sites (12)](#cat-national-parks-and-outdoor-sites)
-- [Natural History and Science (3)](#cat-natural-history-and-science)
+- [Natural History and Science (4)](#cat-natural-history-and-science)
 - [Apps](#apps)
 - [Downloads to Unzip](#downloads)
 - [Pages with Their Own Players](#players)
@@ -54,10 +58,10 @@ The list grew from the Audio Description Project (ADP) of the American Council o
 
 ## By the Numbers {#by-the-numbers}
 
-- 50 tours in 5 groups; the largest is [Historic Homes and History Museums](#cat-historic-homes-and-history-museums), with 22.
-- 40 of the 50 come from ACB's convention podcast; the other 10 were posted by the places themselves.
+- 51 tours in 5 groups; the largest is [Historic Homes and History Museums](#cat-historic-homes-and-history-museums), with 22.
+- 40 of the 51 come from ACB's convention podcast; the other 11 were posted by the places themselves.
 - Of the 43 tours with a known length, half run 52 minutes or less, yet the longest, [White House Visitor Center Exhibits](#tour-white-house-visitor-center-exhibits), runs 254 minutes.
-- 122 tracks can also be played on their own, under the tours they belong to.
+- 133 tracks can also be played on their own, under the tours they belong to.
 - 12 tours are in Washington, DC, more than in any other place.
 
 ## Art Museums (7) {#cat-art-museums}
@@ -845,9 +849,9 @@ Where the first powered flights took place.
 
 **Publisher:** American Council of the Blind, from its convention tours podcast
 
-## Natural History and Science (3) {#cat-natural-history-and-science}
+## Natural History and Science (4) {#cat-natural-history-and-science}
 
-Animals, insects and the natural world in museum exhibits.
+Animals, insects, and the natural world in museum exhibits, and pictures of space.
 
 ### [Audubon Experience](https://pinecast.com/listen/346cacd2-1cd7-48e2-a20c-71a667bbdc0e.mp3?source=rss&ext=asset.mp3) {#tour-audubon-experience}
 
@@ -860,6 +864,30 @@ A short nature experience.
 **Length:** 8 minutes
 
 **Publisher:** American Council of the Blind, from its convention tours podcast
+
+### [Chandra X-ray Observatory: Described Images](https://chandra.si.edu/photo/2025/casa/casa_description_audio.mp3) {#tour-chandra-x-ray-observatory-described-images}
+
+Spoken descriptions of X-ray images of the universe, one recording for each image. The link plays Cassiopeia A, the remains of an exploded star.
+
+[Source page](https://chandra.si.edu/resources/podcasts/description_audio.html)
+
+**More:** [The full archive](https://chandra.si.edu/resources/podcasts/description_audio.html) holds more than 130 described images, newest first.
+
+**Publisher:** NASA's Chandra X-ray Center
+
+**Tracks:**
+
+- [Bullet Cluster](https://chandra.si.edu/photo/2025/bullet/bullet_description_audio.mp3)
+- [Cassiopeia A](https://chandra.si.edu/photo/2025/casa/casa_description_audio.mp3)
+- [Centaurus A](https://chandra.si.edu/photo/2023/cena/cena_description_audio.mp3)
+- [Eta Carinae](https://chandra.si.edu/photo/2023/etacar/etacar_description_audio.mp3)
+- [Helix Nebula](https://chandra.si.edu/photo/2025/helix/helix_description_audio.mp3)
+- [Kepler's Supernova Remnant](https://chandra.si.edu/photo/2026/kepler/kepler_description_audio.mp3)
+- [M31, the Andromeda Galaxy](https://chandra.si.edu/photo/2025/m31/m31_description_audio.mp3)
+- [Sagittarius A*, the black hole at the center of the Milky Way](https://chandra.si.edu/photo/2022/sgra/sgra_description_audio.mp3)
+- [Tarantula Nebula](https://chandra.si.edu/photo/2026/30dor/30dor_description_audio.mp3)
+- [Tycho's Supernova Remnant](https://chandra.si.edu/photo/2023/tycho/tycho_description_audio.mp3)
+- [Westerlund 1](https://chandra.si.edu/photo/2024/wd1/wd1_description_audio.mp3)
 
 ### [Elephant Diorama](https://pinecast.com/listen/f1f83dc8-16c6-4c52-8e5e-7d71cbe8b777.mp3?source=rss&ext=asset.mp3) {#tour-elephant-diorama}
 
@@ -894,10 +922,11 @@ The live insect exhibit at the Smithsonian's National Museum of Natural History.
 These apps hold described tours. Their recordings play inside the app rather than from a link.
 
 - [Art Institute of Chicago](https://www.artic.edu/visit/accessibility/visitors-who-are-blind-or-have-low-vision): "Verbal Description Tour: The Essentials" and described exhibition tours, in the museum's free app.
+- [Bell Museum](https://www.bellmuseum.umn.edu/audio-tour/): the University of Minnesota's museum of natural history, St. Paul, whose guide to its permanent exhibits comes in English with audio description. The museum offers it in a web player and in its app; listening from home is unconfirmed.
 - [Deep Time Audio Description](https://apps.apple.com/app/id1465972882): a self-guided tour of the Smithsonian's fossil hall, iPhone only.
 - [National Park Service App](https://www.nps.gov/subjects/digital/nps-apps.htm): the official app for more than 400 parks, where many parks put described exhibits, waysides and trails, among them Alcatraz and Independence National Historical Park.
 - [NPS Audio Description Tours](https://apps.apple.com/us/app/id1501870349): described exhibit spaces at a set of parks, iPhone only.
-- [UniDescription](https://apps.apple.com/app/id1288434078): described brochures for more than 140 national park sites, for iPhone and Android.
+- [UniDescription](https://apps.apple.com/app/id1288434078): described brochures for more than 140 national park sites, for iPhone and Android, among them the [Mammoth Cave Map & Guide](https://www.nps.gov/maca/planyourvisit/mammoth-cave-map-guide.htm/index.htm).
 
 ## Downloads to Unzip {#downloads}
 
@@ -911,7 +940,8 @@ Each link downloads a ZIP of MP3 files. On Windows, use Extract All in File Expl
 - [Mount Rainier National Park](https://www.nps.gov/mora/planyourvisit/upload/Mount-Rainier-Brochure-Audio-MP3.zip): the park brochure, about 46 minutes in 46 sections.
 - [Muir Woods](https://www.nps.gov/goga/learn/photosmultimedia/upload/muwo_audio.zip): the redwood forest's brochure.
 - [The Natural Presidio](https://www.nps.gov/goga/learn/photosmultimedia/upload/natural_web.zip): the Presidio's plants and wildlife.
-- [Olympic National Park](https://www.nps.gov/olym/planyourvisit/upload/olympic-national-park.zip): the park brochure in 21 sections, covering coast, forest and mountains.
+- [Olympic National Park](https://www.nps.gov/olym/planyourvisit/upload/olympic-national-park.zip): the park brochure as 21 described items, covering coast, forest and mountains.
+- [Official Yellowstone Map & Guide](https://www.nps.gov/yell/planyourvisit/upload/91-3.zip): the park's map and guide, described, linked from [Yellowstone's accessibility page](https://www.nps.gov/yell/planyourvisit/accessibility.htm).
 - [Statue of Liberty and Ellis Island](https://www.unidescription.org/account/project/zip/150): the park brochure, page one for Liberty Island and page two for Ellis Island.
 - [Under Three Flags](https://www.nps.gov/goga/learn/photosmultimedia/upload/3flags-brochure.zip): the Presidio's Spanish, Mexican and American history.
 - [Volunteers-In-Parks](https://www.nps.gov/goga/learn/photosmultimedia/upload/vip-brochure.zip): Golden Gate's volunteer program.
@@ -919,33 +949,33 @@ Each link downloads a ZIP of MP3 files. On Windows, use Extract All in File Expl
 
 ## Pages with Their Own Players {#players}
 
-These recordings play in a player on the page, often one page or one button per stop. Their files could not be linked directly. A link marked "checked by ChatGPT only" goes to a site that blocks automated checking.
+These recordings play in a player on the page, often one page or one button per stop, so their files cannot be linked directly. A link marked "not independently confirmed" goes to a site that blocks automated checks; one check found it working, a second could not open it.
 
+- [Aquarium of the Pacific](https://www.aquariumofpacific.org/visit/audio_tours_ada): 91 timed stops for blind guests, Long Beach, California, from the entrance to the blue whale, sea otters and coral reefs, with a PDF script.
 - [Acadia National Park: Waysides](https://www.nps.gov/acad/planyourvisit/axs_waysides.htm): described roadside exhibits, by area of the park.
-- [Australian Museum: Dinosaurs](https://australian.museum/visit/audio-tours/dinosaurs-audio-description/): ten described stops, one page each, by Vision Australia. The museum also has [200 Treasures](https://australian.museum/visit/audio-tours/200-treasures-audio-description/) and [Wild Planet](https://australian.museum/visit/audio-tours/wild-planet-audio-description/), checked by ChatGPT only.
+- [Australian Museum: Dinosaurs](https://australian.museum/visit/audio-tours/dinosaurs-audio-description/): ten described stops, one page each, by Vision Australia. The museum also has [200 Treasures](https://australian.museum/visit/audio-tours/200-treasures-audio-description/) and [Wild Planet](https://australian.museum/visit/audio-tours/wild-planet-audio-description/), not independently confirmed.
 - [Crystal Bridges Museum of American Art](https://soundcloud.com/crystal-bridges-museum/welcome-to-the-verbal-description-tour): the verbal description tour on SoundCloud, with a [large-print script](https://crystal-bridges-assets.s3.amazonaws.com/uploads/2021/08/VerbalDescription_English_Large.pdf).
 - [Delaware Water Gap: Wayside Audio](https://www.nps.gov/dewa/planyourvisit/wayside-audio.htm): described roadside exhibits in New Jersey and Pennsylvania, in folding sections.
 - [Hampton Court Palace: Tudor World](https://www.hrp.org.uk/hampton-court-palace/whats-on/self-led-audio-described-tour/audio-described-tour-of-the-tudor-world/): 11 stops in the Wolsey rooms, with a transcript.
 - [Lady Godiva at Maidstone Museum](https://museum.maidstone.gov.uk/lady-godiva-audio-description): a described sculpture from VocalEyes' Art UK set.
 - [Museum of Modern Art](https://www.moma.org/audio/playlist/3): 25 works described, on the fourth and fifth floors.
 - [Museum of the American Revolution](https://www.amrevmuseum.org/audio-descriptive-tour-core-galleries): the core galleries, on SoundCloud, with a transcript.
-- [National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-national): 20 artworks and a layout track on SoundCloud, plus the [Portrait gallery](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-portrait) and the [Sculpture Park](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-sculpture-park), the last checked by ChatGPT only.
+- [National Galleries Scotland](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-national): 20 artworks and a layout track on SoundCloud, plus the [Portrait gallery](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-portrait) and the [Sculpture Park](https://www.nationalgalleries.org/art-and-artists/features/audio-described-tour-sculpture-park), the last not independently confirmed.
 - [National Portrait Gallery](https://npg.si.edu/learn/access-programs/audio-portrait-descriptions): selected portraits from America's Presidents, Washington, DC.
 - [National Portrait Gallery of Australia](https://portrait.gov.au/portraits.php?cu=audiodescription): each portrait marked with an AD icon, with a transcript, Canberra.
-- [Seattle Art Museum](https://www1.seattleartmuseum.org/tours/tour/69): nine stops for Dawoud Bey and Carrie Mae Weems, one page each. The museum also has described tours of [Ikat: A World of Compelling Cloth](https://www1.seattleartmuseum.org/tours/media/1356) and [Poke in the Eye](https://www1.seattleartmuseum.org/tours/media/1548), checked by ChatGPT only.
-- [Smithsonian National Museum of Natural History](https://naturalhistory.si.edu/node/13082): described exhibits, including the Insect Zoo, Earth Information Center and Sant Ocean Hall.
+- [Seattle Art Museum](https://www1.seattleartmuseum.org/tours/tour/69): nine stops for Dawoud Bey and Carrie Mae Weems, one page each. The museum also has described tours of [Ikat: A World of Compelling Cloth](https://www1.seattleartmuseum.org/tours/media/1356) and [Poke in the Eye](https://www1.seattleartmuseum.org/tours/media/1548), not independently confirmed.
+- [Smithsonian National Museum of Natural History](https://naturalhistory.si.edu/node/13082): one recorded tour, of the Insect Zoo (also in its entry above), and written descriptions of other exhibits, such as the Earth Information Center and Sant Ocean Hall, for a screen reader to read aloud.
 - [Tower of London](https://www.hrp.org.uk/tower-of-london/whats-on/self-led-audio-described-tour/audio-described-tour/): 32 stops, with a transcript.
 - [V&A East Storehouse](https://www.vam.ac.uk/articles/audio-described-guide-va-east-storehouse): a 20-minute guide, in full or in nine chapters, London. The players appear only after you accept the site's cookies.
-- [VocalEyes audio archive](https://oldsite.vocaleyes.co.uk/audio-clip/art-uk-sculpture/): recordings from the UK nonprofit's museum work, checked by ChatGPT only. Besides 25 Art UK sculptures, it holds [Apsley House](https://oldsite.vocaleyes.co.uk/audio-clip/apsley-house-audio-descriptions/), [Being Human at Wellcome Collection](https://oldsite.vocaleyes.co.uk/audio-clip/being-human-at-wellcome-collection-all-exhibits/), [Calke Abbey](https://oldsite.vocaleyes.co.uk/audio-clip/calke-abbey-audio-described-guide/), [Eltham Palace](https://oldsite.vocaleyes.co.uk/audio-clip/eltham-palace-audio-descriptions/), the [Grant Museum of Zoology](https://oldsite.vocaleyes.co.uk/audio-clip/grant-museum-of-zoology-audio-described-guide/), [Handel & Hendrix in London](https://oldsite.vocaleyes.co.uk/audio-clip/handel-hendrix-in-london-audio-described-guide/), [Illuminated River](https://oldsite.vocaleyes.co.uk/audio-clip/illuminated-river/), the [London Mithraeum](https://oldsite.vocaleyes.co.uk/audio-clip/audio-described-tour-london-mithraeum-bloomberg-space/) and [Walmer Castle](https://oldsite.vocaleyes.co.uk/audio-clip/walmer-castle-audio-descriptions/).
-- [Whitney Museum of American Art](https://whitney.org/education/access/whitney-descriptions): verbal description tours of current shows, and an [archive of verbal descriptions](https://whitney.org/audio/archive?q%255Bs%255D=&search=&tags=verbal_descriptions) in English and Spanish, checked by ChatGPT only.
+- [VocalEyes audio archive](https://oldsite.vocaleyes.co.uk/audio-clip/art-uk-sculpture/): recordings from the UK nonprofit's museum work, not independently confirmed. Besides 25 Art UK sculptures, it holds [Apsley House](https://oldsite.vocaleyes.co.uk/audio-clip/apsley-house-audio-descriptions/), [Being Human at Wellcome Collection](https://oldsite.vocaleyes.co.uk/audio-clip/being-human-at-wellcome-collection-all-exhibits/), [Calke Abbey](https://oldsite.vocaleyes.co.uk/audio-clip/calke-abbey-audio-described-guide/), [Eltham Palace](https://oldsite.vocaleyes.co.uk/audio-clip/eltham-palace-audio-descriptions/), the [Grant Museum of Zoology](https://oldsite.vocaleyes.co.uk/audio-clip/grant-museum-of-zoology-audio-described-guide/), [Handel & Hendrix in London](https://oldsite.vocaleyes.co.uk/audio-clip/handel-hendrix-in-london-audio-described-guide/), [Illuminated River](https://oldsite.vocaleyes.co.uk/audio-clip/illuminated-river/), the [London Mithraeum](https://oldsite.vocaleyes.co.uk/audio-clip/audio-described-tour-london-mithraeum-bloomberg-space/) and [Walmer Castle](https://oldsite.vocaleyes.co.uk/audio-clip/walmer-castle-audio-descriptions/).
+- [Wildlife Photographer of the Year](https://www.nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year/wildlife-photographer-of-the-year-audio-guides.html): people describe what they see in winning photographs and how the pictures make them feel, for two years of the competition, on SoundCloud, from the Natural History Museum, London.
+- [Whitney Museum of American Art](https://whitney.org/education/access/whitney-descriptions): verbal description tours of current shows, and an [archive of verbal descriptions](https://whitney.org/audio/archive?q%255Bs%255D=&search=&tags=verbal_descriptions) in English and Spanish, not independently confirmed.
 
 ## Where to Find More {#more}
 
 - [ADP: Museums, Parks, and Tours](https://adp.acb.org/node/28056): ADP's list, by state, of places with a history of audio description. Most are live or on-site services, so check with a place before you go.
 - [Audio Description Associates: Samples](https://audiodescribe.com/samples/): samples from the describers of many ACB convention tours, on Google Drive.
 - [CRISAccess](https://www.connecticutmuseum.org/visit/plan-your-visit/accessibility/): Connecticut's radio reading service records museum signs, played on site by scanning a QR code.
-- [Described and Captioned Media Program](https://www.dcmp.org/learn/tags/blindness): thousands of described educational videos, many of them virtual field trips. Membership is free for students with disabilities, their families and their teachers.
-- On-site services: the [9/11 Memorial & Museum](https://911memorial.org/accessibility), [Alcatraz](https://www.nps.gov/goga/planyourvisit/audio-description.htm), [Independence National Historical Park](https://www.nps.gov/inde/planyourvisit/visual.htm), the [Statue of Liberty](https://www.nps.gov/stli/planyourvisit/blind-low_vision.htm) and [White Sands](https://www.nps.gov/whsa/planyourvisit/blind-low-vision.htm) lend described devices or tours to visitors.
 
 ## Leads Not Yet Checked {#leads}
 
@@ -953,26 +983,25 @@ These came from ADP's lists or from earlier drafts. Each sounds like a free desc
 
 - **Art Beyond Sight**: a podcast of verbal description samples, listed by ADP on Apple Podcasts, and a handbook page of art description samples by Audio Description Associates.
 - **Audio Description Illinois**: a describer listed in ADP's guidelines, whose site did not answer a check.
-- **Bell Museum**, St. Paul: an audio tour.
+- **British Museum**: tracks on SoundCloud credited to the museum, for galleries such as Ancient Egypt and Ancient Greece and for single objects, found through a listener's playlist; the museum's own track did not open in a check.
 - **Cary and Raleigh, North Carolina**: described outdoor sculpture tours, including a Raleigh sculptures MP3 on ibiblio, and Durham's Audio Described Art project.
 - **Golden Gate visitor centers**: recorded described tours at Muir Woods, the Presidio and Lands End.
 - **Indiana State Museum**, Indianapolis: an app for visitors who are blind.
-- **John F. Kennedy National Historic Site**: the site film is described as audio-described, but the [one video file it offers](https://www.nps.gov/jofi/jfk-nhs-site-film.htm) is not confirmed as the described version.
 - **Lehigh University Art Galleries**: described works on Spotify.
 - **Mount Vernon**: a GPS-driven described tour, described in an ACB member's account of a visit.
 - **National Museum of American History**: a list of visual descriptions.
 - **National Museum of the American Latino**: a sample online description.
-- **Nike Missile Site**: described videos in English, Spanish and Chinese, whose park page is being rebuilt.
 - **Pearl Harbor National Memorial**: four described brochures in UniDescription, covering Pearl Harbor and the USS Arizona, Oklahoma and Utah memorials.
 - **Smithsonian American Art Museum**: visual descriptions, such as one for Grandma Moses, whose audio could not be found in a later check.
+- **Stonehenge**: English Heritage's free app has an audio-described tour, per its access guide; the app page did not open in a check.
 - **Yosemite National Park**: a described brochure, as text on the park's brochures page and as audio in UniDescription.
 
 ## Notes {#notes}
 
 - **ACB's dates.** ACB put tours from its 2021 and 2022 virtual conventions into its podcast in one batch on November 22, 2022, so the podcast shows that date for most of them. That date says nothing about when a tour was made, so it is left out. Eleven tours first appeared in the podcast on August 6, 2021; their 2022 copies, with the same lengths, are the ones linked.
-- **Free, mostly.** Every recording is free. A few on-site services need a ticket to the place, such as the 9/11 Museum and the Statue of Liberty ferry.
-- **Playing a link.** In Edge or Chrome, an MP3, WAV or MP4 link opens the browser's own player and starts at once. Press Alt+Left Arrow to come back to this page. To keep a recording, press Control+S in the player.
-- **What isn't here.** A plain audio guide is left out unless it has a described track, and so is a live tour you must book. For example, the Library of Congress audio guide has no described track, and the International Spy Museum's described tour is live, led by staff.
+- **Free.** Every recording is free and needs no sign-in.
+- **Playing a link.** An MP3, WAV, or MP4 link opens the media directly in your web browser, which usually starts playing it. Go back in the browser to return to this page.
+- **What isn't here.** Described video programs, such as movies, television, and documentaries, are left out, as is a plain audio guide with no described track, and a live tour you must book. For example, the Library of Congress audio guide has no described track, and the International Spy Museum's described tour is live, led by staff.
 - **Things change.** Recordings move and devices stop being offered. When a link fails, the organization's accessibility page is the best place to look next.
 
 ## Appendix A: Tours by Place {#appendix-a-tours-by-place}
@@ -1125,9 +1154,10 @@ Places in alphabetical order, with tours whose place is not stated last.
 
 - [New River Gorge National Park and Preserve: Described Brochure](#tour-new-river-gorge-national-park-and-preserve-described-brochure)
 
-### Place not stated (3) {#by-place-place-not-stated}
+### Place not stated (4) {#by-place-place-not-stated}
 
 - [Audubon Experience](#tour-audubon-experience)
+- [Chandra X-ray Observatory: Described Images](#tour-chandra-x-ray-observatory-described-images)
 - [Klondike Gold Rush Museum](#tour-klondike-gold-rush-museum)
 - [Natchez Trace Parkway](#tour-natchez-trace-parkway)
 
@@ -1141,6 +1171,7 @@ Every tour, by title, ignoring a leading A, An, or The.
 - [Audubon Experience](#tour-audubon-experience)
 - [Benjamin Franklin Museum](#tour-benjamin-franklin-museum)
 - [Castle Williams](#tour-castle-williams)
+- [Chandra X-ray Observatory: Described Images](#tour-chandra-x-ray-observatory-described-images)
 - [Channel Islands National Park](#tour-channel-islands-national-park)
 - [Charles Dickens Museum](#tour-charles-dickens-museum)
 - [Chicago Botanic Garden](#tour-chicago-botanic-garden)
