@@ -1,0 +1,8 @@
+title: Described Tours
+description: A Directory of 50 Free Audio-Described Tours of Museums, Parks, and Landmarks
+author: Jamal Mazrui
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: 2..3
