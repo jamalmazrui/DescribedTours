@@ -4,7 +4,7 @@ subtitle: "A Directory of 51 Free Audio-Described Tours of Notable Places, Objec
 description: "Free recorded tours, for blind and low-vision listeners, that describe notable museums, parks, landmarks, historic homes, artworks, and images, each heading linking straight to the recording, and the whole set playable as one list."
 author: "Jamal Mazrui"
 date: "November 2026"
-version: "v1.2.1"
+version: "v1.3.0"
 lang: en-US
 license: "CC BY-SA 4.0"
 license_url: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -30,7 +30,7 @@ A tour is included when all of the following are true:
 - It is free and needs no sign-in.
 - Its heading opens the recording directly: an audio or video file, so there is no page to search for a play button.
 
-Tours are grouped by kind of place, under a heading at level 2 for each group. Each tour title is a heading at level 3 and a link straight to the recording. Under it comes a description, a Source page link, and the other fields in alphabetical order. A longer tour also lists its separate tracks, each a link that plays it.
+Tours are grouped by kind of place, under a heading at level 2 for each group. Each tour title is a heading at level 3 and a link straight to the recording. Under it comes a description, a Source page link, and the other fields in alphabetical order. A longer tour also lists its separate tracks, each a link that plays it, followed by its length.
 
 **The whole directory is also a play list.** [DescribedTours.m3u][p-m3u] lists every tour in the order of this page, with its title, for any player that reads M3U files.
 
@@ -80,7 +80,7 @@ The art museum on its hilltop campus.
 
 **Place:** Los Angeles, California
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [The Mind's Eye: Guggenheim Museum](https://pinecast.com/listen/6509242b-fdb0-4057-b3dc-8b45aba62548.mp3?source=rss&ext=asset.mp3) {#tour-the-minds-eye-guggenheim-museum}
 
@@ -94,7 +94,7 @@ The sound, light, touch and scale of Frank Lloyd Wright's building.
 
 **Place:** New York, New York
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Minneapolis Institute of Art: Verbal Descriptions](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/NancyKelly_VanGogh_E.mp3) {#tour-minneapolis-institute-of-art-verbal-descriptions}
 
@@ -108,11 +108,11 @@ Five works described by volunteer describers. The link plays the first, Van Gogh
 
 **Tracks:**
 
-- [Olive Trees, Vincent van Gogh](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/NancyKelly_VanGogh_E.mp3)
-- [Shrine head, Yoruba](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/JeanMarie_IfeHead_edited.mp3)
-- [Blind Man's Buff, Max Beckmann](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/FranMcGarry_Beckmann_E.mp3)
-- [Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavilion](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/EmilyShapero_JadeMtn_edited.mp3)
-- [The Doryphoros](https://images.artsmia.org/wp-content/uploads/2026/06/23160201/Verbal-Description-update-edit-v2-doryphorus_GeneLondon_e-DSP.mp3)
+- [Olive Trees, Vincent van Gogh](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/NancyKelly_VanGogh_E.mp3) (7 minutes)
+- [Shrine head, Yoruba](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/JeanMarie_IfeHead_edited.mp3) (7 minutes)
+- [Blind Man's Buff, Max Beckmann](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/FranMcGarry_Beckmann_E.mp3) (11 minutes)
+- [Jade Mountain Illustrating the Gathering of Scholars at the Lanting Pavilion](https://live-artsmia.pantheonsite.io/wp-content/uploads/2022/02/EmilyShapero_JadeMtn_edited.mp3) (9 minutes)
+- [The Doryphoros](https://images.artsmia.org/wp-content/uploads/2026/06/23160201/Verbal-Description-update-edit-v2-doryphorus_GeneLondon_e-DSP.mp3) (6 minutes)
 
 ### [National Gallery of Art: West Building Verbal Descriptions](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366305.mp3) {#tour-national-gallery-of-art-west-building-verbal-descriptions}
 
@@ -126,25 +126,25 @@ A described track for each of 19 works on the West Building tour. The link plays
 
 **Tracks:**
 
-- [Death and the Miser](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366305.mp3)
-- [Still Life with Peacock Pie](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366293.mp3)
-- [Self-Portrait](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366287.mp3)
-- [Daniel in the Lions' Den](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366281.mp3)
-- [Keelmen Heaving in Coals by Moonlight](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366275.mp3)
-- [Niagara](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366266.mp3)
-- [Watson and the Shark](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366260.mp3)
-- [Portrait of My Grandmother](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366257.mp3)
-- [The Shaw 54th Regiment Memorial](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366251.mp3)
-- [Ginevra de' Benci](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366242.mp3)
-- [Laocoön](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366236.mp3)
-- [St. Mark's Square, Venice](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366224.mp3)
-- [The Alba Madonna](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366215.mp3)
-- [Two Women at a Window](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366206.mp3)
-- [Woman with a Sunflower](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366203.mp3)
-- [The Emperor Napoleon in His Study at the Tuileries](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366194.mp3)
-- [Odalisque](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366188.mp3)
-- [Woman Viewed from Behind, or Visit to a Museum](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366182.mp3)
-- [The Old Musician](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366179.mp3)
+- [Death and the Miser](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366305.mp3) (5 minutes)
+- [Still Life with Peacock Pie](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366293.mp3) (4 minutes)
+- [Self-Portrait](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366287.mp3) (2 minutes)
+- [Daniel in the Lions' Den](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366281.mp3) (3 minutes)
+- [Keelmen Heaving in Coals by Moonlight](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366275.mp3) (2 minutes)
+- [Niagara](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366266.mp3) (1 minute)
+- [Watson and the Shark](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366260.mp3) (3 minutes)
+- [Portrait of My Grandmother](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366257.mp3) (2 minutes)
+- [The Shaw 54th Regiment Memorial](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366251.mp3) (3 minutes)
+- [Ginevra de' Benci](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366242.mp3) (2 minutes)
+- [Laocoön](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366236.mp3) (3 minutes)
+- [St. Mark's Square, Venice](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366224.mp3) (3 minutes)
+- [The Alba Madonna](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366215.mp3) (3 minutes)
+- [Two Women at a Window](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366206.mp3) (2 minutes)
+- [Woman with a Sunflower](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366203.mp3) (3 minutes)
+- [The Emperor Napoleon in His Study at the Tuileries](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366194.mp3) (3 minutes)
+- [Odalisque](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366188.mp3) (3 minutes)
+- [Woman Viewed from Behind, or Visit to a Museum](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366182.mp3) (2 minutes)
+- [The Old Musician](https://d3tnanb7v9dx8u.cloudfront.net/Audio+Files/1295366179.mp3) (4 minutes)
 
 ### [National Gallery: Audio Descriptions](https://www.nationalgallery.org.uk/media/5syf2dkk/sunflowers_1.wav) {#tour-national-gallery-audio-descriptions}
 
@@ -170,7 +170,7 @@ Portraits of the presidents.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [The Salvador Dali Museum](https://pinecast.com/listen/fd5416a2-ff84-4b96-ab8d-0f6290a9f5d2.mp3?source=rss&ext=asset.mp3) {#tour-the-salvador-dali-museum}
 
@@ -184,7 +184,7 @@ The Dali collection on the waterfront.
 
 **Place:** St. Petersburg, Florida
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ## Government Buildings and Landmarks (6) {#cat-government-buildings-and-landmarks}
 
@@ -202,7 +202,7 @@ The fort on Governors Island.
 
 **Place:** New York Harbor
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Fort Jefferson, Dry Tortugas National Park](https://pinecast.com/listen/02381afa-98e7-4ff8-b3f9-b0c90ce3de71.mp3?source=rss&ext=asset.mp3) {#tour-fort-jefferson-dry-tortugas-national-park}
 
@@ -216,7 +216,7 @@ The island fort west of Key West.
 
 **Place:** Florida
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [The People's House](https://pinecast.com/listen/8352f2ce-e182-4603-8ac7-20b2e415f5ea.mp3?source=rss&ext=asset.mp3) {#tour-the-peoples-house}
 
@@ -230,11 +230,11 @@ The White House, in the revised version of the tour.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 **Tracks:**
 
-- [The original 2021 version](https://pinecast.com/listen/a62f8724-f4f3-463f-89ba-87595048f888.mp3?source=rss&ext=asset.mp3)
+- [The original 2021 version](https://pinecast.com/listen/a62f8724-f4f3-463f-89ba-87595048f888.mp3?source=rss&ext=asset.mp3) (36 minutes)
 
 ### [U.S. Capitol Visitor Center: Exhibition Hall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_FullTour.mp3) {#tour-u-s-capitol-visitor-center-exhibition-hall}
 
@@ -250,39 +250,39 @@ The full described tour, with directions for finding your way. Each of its 33 st
 
 **Tracks:**
 
-- [Introduction and tour instructions](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_1_IntroductionAndAudioDescriptionTourInstructions.mp3)
-- [Emancipation Hall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_2_EmancipationHall.mp3)
-- [Statue of Freedom model, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_3_StatueOfFreedomModel-DetailedDescription.mp3)
-- [Foyer](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_4_Foyer.mp3)
-- [Exhibition Hall overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_5_ExhibitionHall-Overview.mp3)
-- [Video wall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_6_VideoWall.mp3)
-- [South, House side, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_7_SouthHouse-Overview.mp3)
-- [What's My Role? overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_8_WhatsMyRole-Overview.mp3)
-- [What's My Role? detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_9_WhatsMyRole-DetailedDescription.mp3)
-- [The Capitol Over Time, dioramas with tactile maps, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_10_TheCapitolOverTime-DioramasWithTactileMaps-Overview.mp3)
-- [The Capitol Over Time, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_11_TheCapitolOverTime-DioramasWithTactileMaps-DetailedDescription.mp3)
-- [The Nation's Capitol, art and architecture, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_12_TheNationsCapitolArtAndArchitecture-Overview.mp3)
-- [The Nation's Capitol, art and architecture, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_13_TheNationsCapitolArtAndArchitecture-DetailedDescription_REV.mp3)
-- [Tactile dome, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_14_TactileDome-Overview.mp3)
-- [Tactile dome, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_15_TactileDome-DetailedDescription.mp3)
-- [House Theater](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_16_HouseTheater.mp3)
-- [Democracy Lab, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_17_DemocracyLab-Overview.mp3)
-- [Democracy Lab, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_18_DemocracyLab-DetailedDescription.mp3)
-- [North, Senate side, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_19_NorthSenate-Overview.mp3)
-- [Impact of Congress, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_20_ImpactOfCongress-Overview.mp3)
-- [Impact of Congress, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_21_ImpactOfCongress-DetailedDescription.mp3)
-- [Congress Over Time, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_22_CongressOverTime-Overview.mp3)
-- [Congress Over Time 1 to 3, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_23_CongressOverTime1-3-DetailedDescription.mp3)
-- [Congress Over Time 4 to 6, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_24_CongressOverTime4-6-DetailedDescription_REV.mp3)
-- [Interactive wall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_25_InteractiveWall.mp3)
-- [Senate Theater](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_26_SenateTheater.mp3)
-- [Rotating exhibit](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_27_RotatingExhibit.mp3)
-- [West, behind the central video wall, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_28_WestBehindTheCentralVideoWall-Overview.mp3)
-- [The Nation's Stage](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_29_TheNationsStage.mp3)
-- [The legislative process](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_30_TheLegislativeProcess.mp3)
-- [What Does Congress Do?](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_31_WhatDoesCongressDo.mp3)
-- [The founding documents, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_32_TheFoundingDocumentsOfTheUnitedStates-Overview.mp3)
-- [The founding documents, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_33_TheFoundingDocumentsOfTheUnitedStates-DetailedDescription.mp3)
+- [Introduction and tour instructions](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_1_IntroductionAndAudioDescriptionTourInstructions.mp3) (1 minute)
+- [Emancipation Hall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_2_EmancipationHall.mp3) (1 minute)
+- [Statue of Freedom model, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_3_StatueOfFreedomModel-DetailedDescription.mp3) (1 minute)
+- [Foyer](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_4_Foyer.mp3) (1 minute)
+- [Exhibition Hall overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_5_ExhibitionHall-Overview.mp3) (2 minutes)
+- [Video wall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_6_VideoWall.mp3) (1 minute)
+- [South, House side, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_7_SouthHouse-Overview.mp3) (1 minute)
+- [What's My Role? overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_8_WhatsMyRole-Overview.mp3) (1 minute)
+- [What's My Role? detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_9_WhatsMyRole-DetailedDescription.mp3) (6 minutes)
+- [The Capitol Over Time, dioramas with tactile maps, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_10_TheCapitolOverTime-DioramasWithTactileMaps-Overview.mp3) (1 minute)
+- [The Capitol Over Time, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_11_TheCapitolOverTime-DioramasWithTactileMaps-DetailedDescription.mp3) (7 minutes)
+- [The Nation's Capitol, art and architecture, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_12_TheNationsCapitolArtAndArchitecture-Overview.mp3) (1 minute)
+- [The Nation's Capitol, art and architecture, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_13_TheNationsCapitolArtAndArchitecture-DetailedDescription_REV.mp3) (11 minutes)
+- [Tactile dome, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_14_TactileDome-Overview.mp3) (1 minute)
+- [Tactile dome, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_15_TactileDome-DetailedDescription.mp3) (3 minutes)
+- [House Theater](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_16_HouseTheater.mp3) (1 minute)
+- [Democracy Lab, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_17_DemocracyLab-Overview.mp3) (1 minute)
+- [Democracy Lab, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_18_DemocracyLab-DetailedDescription.mp3) (2 minutes)
+- [North, Senate side, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_19_NorthSenate-Overview.mp3) (1 minute)
+- [Impact of Congress, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_20_ImpactOfCongress-Overview.mp3) (1 minute)
+- [Impact of Congress, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_21_ImpactOfCongress-DetailedDescription.mp3) (13 minutes)
+- [Congress Over Time, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_22_CongressOverTime-Overview.mp3) (1 minute)
+- [Congress Over Time 1 to 3, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_23_CongressOverTime1-3-DetailedDescription.mp3) (15 minutes)
+- [Congress Over Time 4 to 6, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_24_CongressOverTime4-6-DetailedDescription_REV.mp3) (11 minutes)
+- [Interactive wall](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_25_InteractiveWall.mp3) (1 minute)
+- [Senate Theater](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_26_SenateTheater.mp3) (1 minute)
+- [Rotating exhibit](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_27_RotatingExhibit.mp3) (1 minute)
+- [West, behind the central video wall, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_28_WestBehindTheCentralVideoWall-Overview.mp3) (1 minute)
+- [The Nation's Stage](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_29_TheNationsStage.mp3) (2 minutes)
+- [The legislative process](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_30_TheLegislativeProcess.mp3) (1 minute)
+- [What Does Congress Do?](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_31_WhatDoesCongressDo.mp3) (1 minute)
+- [The founding documents, overview](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_32_TheFoundingDocumentsOfTheUnitedStates-Overview.mp3) (1 minute)
+- [The founding documents, detailed description](https://www.visitthecapitol.gov/sites/default/files/asl-videos/USCapitolVisitorCenter_ADTour_33_TheFoundingDocumentsOfTheUnitedStates-DetailedDescription.mp3) (5 minutes)
 
 ### [U.S. Marine Corps War Memorial](https://pinecast.com/listen/2b7d019f-04fc-460d-89e6-bba965f3f31c.mp3?source=rss&ext=asset.mp3) {#tour-u-s-marine-corps-war-memorial}
 
@@ -296,7 +296,7 @@ The Iwo Jima memorial.
 
 **Place:** Arlington, Virginia
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [White House Visitor Center Exhibits](https://pinecast.com/listen/642ef9b1-5131-4bea-9617-a035b76d3e40.mp3?source=rss&ext=asset.mp3) {#tour-white-house-visitor-center-exhibits}
 
@@ -310,7 +310,7 @@ The exhibits at the visitor center.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ## Historic Homes and History Museums (22) {#cat-historic-homes-and-history-museums}
 
@@ -328,7 +328,7 @@ A temporary Smithsonian exhibit.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [African Burial Ground National Monument](https://pinecast.com/listen/90a4f606-c7ee-4c31-bc8c-9f9efd4846b3.mp3?source=rss&ext=asset.mp3) {#tour-african-burial-ground-national-monument}
 
@@ -342,7 +342,7 @@ The burial ground of free and enslaved Africans.
 
 **Place:** Lower Manhattan, New York
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [And a Star to Steer Her By](https://pinecast.com/listen/9a4bfa9f-d4fe-41eb-8ed0-2d338d294ffa.mp3?source=rss&ext=asset.mp3) {#tour-and-a-star-to-steer-her-by}
 
@@ -356,7 +356,7 @@ A Smithsonian exhibit.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Benjamin Franklin Museum](https://pinecast.com/listen/04d6295c-f126-4590-a1d7-90badb406376.mp3?source=rss&ext=asset.mp3) {#tour-benjamin-franklin-museum}
 
@@ -368,7 +368,7 @@ The museum under Franklin Court, at Independence National Historical Park.
 
 **Place:** Philadelphia, Pennsylvania
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Charles Dickens Museum](https://cdn.shopify.com/s/files/1/0925/3888/files/AD_Tour_-_C_SD_-_V2_-_complete_Tour_compressed_5.mp3) {#tour-charles-dickens-museum}
 
@@ -382,27 +382,27 @@ Dickens's London townhouse, as one recording. The same tour is also in tracks, w
 
 **Tracks:**
 
-- [Ten-minute introduction to the museum](https://cdn.shopify.com/s/files/1/0925/3888/files/Web_Introduction_-_SD_C_-_V2.mp3?v=1617187937)
-- [Introduction](https://cdn.shopify.com/s/files/1/0925/3888/files/01_-_Trk_1__Welcome_and_introduction.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615824059)
-- [Directions from the shop to the kitchen](https://cdn.shopify.com/s/files/1/0925/3888/files/02_-_Directions_from_shop_to_Kitchen.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615824154)
-- [The kitchen](https://cdn.shopify.com/s/files/1/0925/3888/files/03_-_Trk_2_-_The_Kitchen-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615824358)
-- [The still room](https://cdn.shopify.com/s/files/1/0925/3888/files/04_-_Trk_3_-_The_Still_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825319)
-- [The wash house and wine cellar](https://cdn.shopify.com/s/files/1/0925/3888/files/05_-_Trk_4_-_The_Wash_house.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825523)
-- [Directions from the wine cellar to the entrance hall](https://cdn.shopify.com/s/files/1/0925/3888/files/06_-_Directions_from_the_wine_cellar_to_the_Entrance_Hall.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825650)
-- [The entrance hall](https://cdn.shopify.com/s/files/1/0925/3888/files/07_-_Trk_5-_The_Entrance_Hall.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825730)
-- [The dining room](https://cdn.shopify.com/s/files/1/0925/3888/files/08_-_Trk_6_-_The_Dining_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825827)
-- [The morning room](https://cdn.shopify.com/s/files/1/0925/3888/files/09_-_Trk_7_-_The_Morning_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825996)
-- [Directions from the morning room to the drawing room](https://cdn.shopify.com/s/files/1/0925/3888/files/10_-_Directions_from_Morning_room_to_Drawing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826023)
-- [The drawing room](https://cdn.shopify.com/s/files/1/0925/3888/files/11_-_Trk_8_-_The_Drawing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826149)
-- [The study](https://cdn.shopify.com/s/files/1/0925/3888/files/12_-_Trk_9_-_The_Study.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826238)
-- [Directions to the second-floor dressing room](https://cdn.shopify.com/s/files/1/0925/3888/files/13_-_Directions_to_the_second_floor_Dressing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826301)
-- [The dressing room](https://cdn.shopify.com/s/files/1/0925/3888/files/14_-_Trk_10_-_The_Dressing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826361)
-- [The bedroom](https://cdn.shopify.com/s/files/1/0925/3888/files/15_-_Trk_11_-_The_Bedroom-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615826452)
-- [The Mary Hogarth room](https://cdn.shopify.com/s/files/1/0925/3888/files/16_-_Trk_12_-_The_Mary_Hogarth_Room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826551)
-- [Directions to the nursery](https://cdn.shopify.com/s/files/1/0925/3888/files/17_-_Directions_to_Nursery.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826618)
-- [The nursery](https://cdn.shopify.com/s/files/1/0925/3888/files/18_-_Trk_13_-_The_Nursery.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826713)
-- [The servant's bedroom](https://cdn.shopify.com/s/files/1/0925/3888/files/19_-_Trk_14_-_The_Servant_s_bedroom.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826774)
-- [Directions to exit the museum](https://cdn.shopify.com/s/files/1/0925/3888/files/20_-_Directions_from_the_attic_to_exit_the_museum2.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826806)
+- [Ten-minute introduction to the museum](https://cdn.shopify.com/s/files/1/0925/3888/files/Web_Introduction_-_SD_C_-_V2.mp3?v=1617187937) (9 minutes)
+- [Introduction](https://cdn.shopify.com/s/files/1/0925/3888/files/01_-_Trk_1__Welcome_and_introduction.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615824059) (4 minutes)
+- [Directions from the shop to the kitchen](https://cdn.shopify.com/s/files/1/0925/3888/files/02_-_Directions_from_shop_to_Kitchen.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615824154) (2 minutes)
+- [The kitchen](https://cdn.shopify.com/s/files/1/0925/3888/files/03_-_Trk_2_-_The_Kitchen-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615824358) (3 minutes)
+- [The still room](https://cdn.shopify.com/s/files/1/0925/3888/files/04_-_Trk_3_-_The_Still_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825319) (2 minutes)
+- [The wash house and wine cellar](https://cdn.shopify.com/s/files/1/0925/3888/files/05_-_Trk_4_-_The_Wash_house.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825523) (3 minutes)
+- [Directions from the wine cellar to the entrance hall](https://cdn.shopify.com/s/files/1/0925/3888/files/06_-_Directions_from_the_wine_cellar_to_the_Entrance_Hall.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825650) (1 minute)
+- [The entrance hall](https://cdn.shopify.com/s/files/1/0925/3888/files/07_-_Trk_5-_The_Entrance_Hall.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615825730) (1 minute)
+- [The dining room](https://cdn.shopify.com/s/files/1/0925/3888/files/08_-_Trk_6_-_The_Dining_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825827) (4 minutes)
+- [The morning room](https://cdn.shopify.com/s/files/1/0925/3888/files/09_-_Trk_7_-_The_Morning_room-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615825996) (5 minutes)
+- [Directions from the morning room to the drawing room](https://cdn.shopify.com/s/files/1/0925/3888/files/10_-_Directions_from_Morning_room_to_Drawing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826023) (1 minute)
+- [The drawing room](https://cdn.shopify.com/s/files/1/0925/3888/files/11_-_Trk_8_-_The_Drawing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826149) (4 minutes)
+- [The study](https://cdn.shopify.com/s/files/1/0925/3888/files/12_-_Trk_9_-_The_Study.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826238) (4 minutes)
+- [Directions to the second-floor dressing room](https://cdn.shopify.com/s/files/1/0925/3888/files/13_-_Directions_to_the_second_floor_Dressing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826301) (1 minute)
+- [The dressing room](https://cdn.shopify.com/s/files/1/0925/3888/files/14_-_Trk_10_-_The_Dressing_room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826361) (1 minute)
+- [The bedroom](https://cdn.shopify.com/s/files/1/0925/3888/files/15_-_Trk_11_-_The_Bedroom-v2_-_AD_Tour_-_C_SD_-_V2.mp3?v=1615826452) (2 minutes)
+- [The Mary Hogarth room](https://cdn.shopify.com/s/files/1/0925/3888/files/16_-_Trk_12_-_The_Mary_Hogarth_Room.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826551) (4 minutes)
+- [Directions to the nursery](https://cdn.shopify.com/s/files/1/0925/3888/files/17_-_Directions_to_Nursery.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826618) (1 minute)
+- [The nursery](https://cdn.shopify.com/s/files/1/0925/3888/files/18_-_Trk_13_-_The_Nursery.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826713) (5 minutes)
+- [The servant's bedroom](https://cdn.shopify.com/s/files/1/0925/3888/files/19_-_Trk_14_-_The_Servant_s_bedroom.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826774) (3 minutes)
+- [Directions to exit the museum](https://cdn.shopify.com/s/files/1/0925/3888/files/20_-_Directions_from_the_attic_to_exit_the_museum2.flac_-_AD_Tour_-_C_SD_-_V1.mp3?v=1615826806) (1 minute)
 
 ### [Clinton Birthplace Home](https://www.nps.gov/nps-audiovideo/audiovideo/68de701e-1802-4487-a3ef-f37e408c2244720p.mp4) {#tour-clinton-birthplace-home}
 
@@ -428,7 +428,7 @@ The memorial to the passengers and crew of United Flight 93.
 
 **Place:** Shanksville, Pennsylvania
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Franklin Delano Roosevelt Library](https://pinecast.com/listen/b8335436-c8df-462f-86ba-ca99587b816d.mp3?source=rss&ext=asset.mp3) {#tour-franklin-delano-roosevelt-library}
 
@@ -442,13 +442,13 @@ The presidential library, in four episodes. The link plays parts 1 to 4.
 
 **Place:** Hyde Park, New York
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 **Tracks:**
 
-- [Parts 5 and 6, A New Deal](https://pinecast.com/listen/26f857be-1888-4270-b1c1-1a62aa4e0097.mp3?source=rss&ext=asset.mp3)
-- [Part 7, War](https://pinecast.com/listen/5e39f9e3-ac19-489e-ab1a-64ab0fc9e807.mp3?source=rss&ext=asset.mp3)
-- [Parts 8 to 11](https://pinecast.com/listen/951c7f76-9430-4c3d-9425-05ddf6a1c12e.mp3?source=rss&ext=asset.mp3)
+- [Parts 5 and 6, A New Deal](https://pinecast.com/listen/26f857be-1888-4270-b1c1-1a62aa4e0097.mp3?source=rss&ext=asset.mp3) (209 minutes)
+- [Part 7, War](https://pinecast.com/listen/5e39f9e3-ac19-489e-ab1a-64ab0fc9e807.mp3?source=rss&ext=asset.mp3) (329 minutes)
+- [Parts 8 to 11](https://pinecast.com/listen/951c7f76-9430-4c3d-9425-05ddf6a1c12e.mp3?source=rss&ext=asset.mp3) (63 minutes)
 
 ### [Harry S Truman National Historic Site](https://pinecast.com/listen/9797ef31-5a28-41b0-86c3-bde066cf2b99.mp3?source=rss&ext=asset.mp3) {#tour-harry-s-truman-national-historic-site}
 
@@ -462,7 +462,7 @@ Truman's home.
 
 **Place:** Independence, Missouri
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Home of Franklin D. Roosevelt: Described Brochure](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-1-DescriptionofQuickOverview1.mp3) {#tour-home-of-franklin-d-roosevelt-described-brochure}
 
@@ -476,24 +476,24 @@ The park brochure in 18 short clips. The link plays the overview.
 
 **Tracks:**
 
-- [Overview](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-1-DescriptionofQuickOverview1.mp3)
-- [Quotes](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-3-DescriptionofQuotes1.mp3)
-- [The life and times of FDR](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-5-DescriptionofTextTheLifeandTimesofFDR1.mp3)
-- [Timeline](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-7-DescriptionofTimelineTheLifeandTimesofFDR1.mp3)
-- [Photos, overview](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-9-DescriptionofPhotosOverview1.mp3)
-- [Photo: FDR and his home](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-11-DescriptionofPhotoFDRandHisHome1.mp3)
-- [Photo: inauguration day parade drive](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-13-DescriptionofPhotoInaugurationDayParadeDrive1.mp3)
-- [Photo: FDR and dogs outdoors in winter](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-15-DescriptionofPhotoFDRandDogsOutdoorsinWinter.mp3)
-- [Photo: FDR riding a horse with his mother and father](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-17-DescriptionofPhotoFDRRidingaHorsewithHisMotherandFather.mp3)
-- [Photo: FDR knitting](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-19-DescriptionofPhotoFDRKnitting.mp3)
-- [Photo: FDR sailing](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-21-DescriptionofPhotoFDRSailing.mp3)
-- [Photo: FDR standing portrait](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-23-DescriptionofPhotoFDRStandingPortrait.mp3)
-- [Photo: family photo with FDR](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-25-DescriptionofPhotoFamilyPhotowithFDR.mp3)
-- [Photo: entertaining at Springwood](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-27-DescriptionofPhotoEntertainingatSpringwood.mp3)
-- [Photos: FDR's federal programs](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-29-DescriptionofPhotosFDRrsquosFederalPrograms.mp3)
-- [Park information](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-31-DescriptionofSideTwoTextParkInformation.mp3)
-- [Map: the park grounds](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-33-DescriptionofMapTheParkGrounds.mp3)
-- [Map: park and surrounding area](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-35-DescriptionofMapParkandSurroundingArea.mp3)
+- [Overview](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-1-DescriptionofQuickOverview1.mp3) (1 minute)
+- [Quotes](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-3-DescriptionofQuotes1.mp3) (1 minute)
+- [The life and times of FDR](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-5-DescriptionofTextTheLifeandTimesofFDR1.mp3) (5 minutes)
+- [Timeline](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-7-DescriptionofTimelineTheLifeandTimesofFDR1.mp3) (6 minutes)
+- [Photos, overview](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-9-DescriptionofPhotosOverview1.mp3) (1 minute)
+- [Photo: FDR and his home](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-11-DescriptionofPhotoFDRandHisHome1.mp3) (2 minutes)
+- [Photo: inauguration day parade drive](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-13-DescriptionofPhotoInaugurationDayParadeDrive1.mp3) (1 minute)
+- [Photo: FDR and dogs outdoors in winter](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-15-DescriptionofPhotoFDRandDogsOutdoorsinWinter.mp3) (1 minute)
+- [Photo: FDR riding a horse with his mother and father](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-17-DescriptionofPhotoFDRRidingaHorsewithHisMotherandFather.mp3) (1 minute)
+- [Photo: FDR knitting](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-19-DescriptionofPhotoFDRKnitting.mp3) (1 minute)
+- [Photo: FDR sailing](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-21-DescriptionofPhotoFDRSailing.mp3) (1 minute)
+- [Photo: FDR standing portrait](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-23-DescriptionofPhotoFDRStandingPortrait.mp3) (1 minute)
+- [Photo: family photo with FDR](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-25-DescriptionofPhotoFamilyPhotowithFDR.mp3) (1 minute)
+- [Photo: entertaining at Springwood](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-27-DescriptionofPhotoEntertainingatSpringwood.mp3) (1 minute)
+- [Photos: FDR's federal programs](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-29-DescriptionofPhotosFDRrsquosFederalPrograms.mp3) (1 minute)
+- [Park information](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-31-DescriptionofSideTwoTextParkInformation.mp3) (3 minutes)
+- [Map: the park grounds](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-33-DescriptionofMapTheParkGrounds.mp3) (2 minutes)
+- [Map: park and surrounding area](https://www.nps.gov/nps-audiovideo/legacy/mp3/ner/avElement/hofr-35-DescriptionofMapParkandSurroundingArea.mp3) (1 minute)
 
 ### [Horseshoe Bend National Military Park](https://pinecast.com/listen/248c4136-a3e7-4300-90a2-6830682fa2b2.mp3?source=rss&ext=asset.mp3) {#tour-horseshoe-bend-national-military-park}
 
@@ -507,7 +507,7 @@ The battlefield.
 
 **Place:** Alabama
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [James A. Garfield National Historic Site](https://pinecast.com/listen/519701a3-dad2-4bc9-bf03-be0ed83d1f0e.mp3?source=rss&ext=asset.mp3) {#tour-james-a-garfield-national-historic-site}
 
@@ -521,7 +521,7 @@ Garfield's home.
 
 **Place:** Mentor, Ohio
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Kingsley Plantation](https://pinecast.com/listen/8d305ef2-a341-4d76-81d1-24aa10edf39a.mp3?source=rss&ext=asset.mp3) {#tour-kingsley-plantation}
 
@@ -535,7 +535,7 @@ The plantation at Timucuan Ecological and Historic Preserve.
 
 **Place:** Jacksonville, Florida
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Klondike Gold Rush Museum](https://pinecast.com/listen/79275b5e-145d-42da-bc37-0f9a7a3ab0ef.mp3?source=rss&ext=asset.mp3) {#tour-klondike-gold-rush-museum}
 
@@ -547,7 +547,7 @@ A National Park Service museum of the gold rush.
 
 **Length:** 120 minutes
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Lyndon B. Johnson National Historical Park](https://pinecast.com/listen/1d05bb02-d9ba-4037-a1a0-23d28db608ce.mp3?source=rss&ext=asset.mp3) {#tour-lyndon-b-johnson-national-historical-park}
 
@@ -561,7 +561,7 @@ Johnson's birthplace and ranch.
 
 **Place:** Texas
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Neilson House](https://www.nps.gov/nps-audiovideo/audiovideo/b5dbcfc1-3b64-4af0-a3e5-0181832fe63a720p.mp4) {#tour-neilson-house}
 
@@ -587,7 +587,7 @@ Two buildings at Independence National Historical Park.
 
 **Place:** Philadelphia, Pennsylvania
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [The Star-Spangled Banner](https://pinecast.com/listen/46e04450-75af-49a2-9fbc-027670ca5edb.mp3?source=rss&ext=asset.mp3) {#tour-the-star-spangled-banner}
 
@@ -601,7 +601,7 @@ The flag that inspired the national anthem, at the National Museum of American H
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [U.S. Olympic and Paralympic Museum](https://pinecast.com/listen/878afbc7-bbd5-40d3-b90b-fab4826cc3d3.mp3?source=rss&ext=asset.mp3) {#tour-u-s-olympic-and-paralympic-museum}
 
@@ -615,7 +615,7 @@ Excerpts from the museum.
 
 **Place:** Colorado Springs, Colorado
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [United States Holocaust Memorial Museum](https://pinecast.com/listen/e407b740-de02-4e85-93be-318f2acbc39c.mp3?source=rss&ext=asset.mp3) {#tour-united-states-holocaust-memorial-museum}
 
@@ -629,7 +629,7 @@ The museum, as presented at ACB's convention.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [United States Holocaust Memorial Museum: Hall of Witness and Hall of Remembrance](https://vault.ushmm.org/adaptivemedia/rendition/id_f400b2a953876e809e9a2c1f40361b11dc17364c) {#tour-united-states-holocaust-memorial-museum-hall-of-witness-and-hall-of-remembrance}
 
@@ -643,15 +643,15 @@ Both halls and their architecture described, with directions between them. The l
 
 **Tracks:**
 
-- [Hall of Witness](https://vault.ushmm.org/adaptivemedia/rendition/id_f400b2a953876e809e9a2c1f40361b11dc17364c)
-- [To the second level by elevator](https://vault.ushmm.org/adaptivemedia/rendition/id_1a0fe5885de101a12a523bd59daad47dfab8b5d3)
-- [To the second level by stairs](https://vault.ushmm.org/adaptivemedia/rendition/id_59f626bd6004fa425432a9663e21dc5b01eee6fd)
-- [Hall of Remembrance](https://vault.ushmm.org/adaptivemedia/rendition/id_3cebd3a7cb57e5769300b8e04d0329d244ac7518)
-- [Back to coat check by elevator, and conclusion](https://vault.ushmm.org/adaptivemedia/rendition/id_137bca249d98f66bec042c6ca9045683ae4b07df)
+- [Hall of Witness](https://vault.ushmm.org/adaptivemedia/rendition/id_f400b2a953876e809e9a2c1f40361b11dc17364c) (8 minutes)
+- [To the second level by elevator](https://vault.ushmm.org/adaptivemedia/rendition/id_1a0fe5885de101a12a523bd59daad47dfab8b5d3) (3 minutes)
+- [To the second level by stairs](https://vault.ushmm.org/adaptivemedia/rendition/id_59f626bd6004fa425432a9663e21dc5b01eee6fd) (2 minutes)
+- [Hall of Remembrance](https://vault.ushmm.org/adaptivemedia/rendition/id_3cebd3a7cb57e5769300b8e04d0329d244ac7518) (15 minutes)
+- [Back to coat check by elevator, and conclusion](https://vault.ushmm.org/adaptivemedia/rendition/id_137bca249d98f66bec042c6ca9045683ae4b07df) (2 minutes)
 - [Back to coat check by stairs, and conclusion](https://www.ushmm.org/m/audio/9-End-Stairs.mp3)
-- [Using the museum's listening device](https://vault.ushmm.org/adaptivemedia/rendition/id_66325b35a15b9fce8653a14e135f346412c2eff5)
-- [To the restrooms from coat check by elevator](https://vault.ushmm.org/adaptivemedia/rendition/id_22d9aa66c2886041416513a1fe67c3d93141f75f)
-- [To the restrooms from coat check by stairs](https://vault.ushmm.org/adaptivemedia/rendition/id_3f9b4a0247b621ff283d2bd026bee90b9d76639c)
+- [Using the museum's listening device](https://vault.ushmm.org/adaptivemedia/rendition/id_66325b35a15b9fce8653a14e135f346412c2eff5) (2 minutes)
+- [To the restrooms from coat check by elevator](https://vault.ushmm.org/adaptivemedia/rendition/id_22d9aa66c2886041416513a1fe67c3d93141f75f) (4 minutes)
+- [To the restrooms from coat check by stairs](https://vault.ushmm.org/adaptivemedia/rendition/id_3f9b4a0247b621ff283d2bd026bee90b9d76639c) (3 minutes)
 
 ### [War in the Pacific National Historical Park](https://pinecast.com/listen/adf3d676-55ef-4085-88ea-b4eeb25795e2.mp3?source=rss&ext=asset.mp3) {#tour-war-in-the-pacific-national-historical-park}
 
@@ -665,7 +665,7 @@ The World War II park.
 
 **Place:** Guam
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ## National Parks and Outdoor Sites (12) {#cat-national-parks-and-outdoor-sites}
 
@@ -683,7 +683,7 @@ The islands off the coast of Southern California.
 
 **Place:** California
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Chicago Botanic Garden](https://pinecast.com/listen/a067202f-bd65-4cc7-a457-efc554450425.mp3?source=rss&ext=asset.mp3) {#tour-chicago-botanic-garden}
 
@@ -697,7 +697,7 @@ The garden north of Chicago.
 
 **Place:** Glencoe, Illinois
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Haleakala National Park](https://pinecast.com/listen/1f62fdc9-a8bf-41a4-963d-bb5fe81c31e8.mp3?source=rss&ext=asset.mp3) {#tour-haleakala-national-park}
 
@@ -711,7 +711,7 @@ The volcano park.
 
 **Place:** Maui, Hawaii
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Marais des Cygnes National Wildlife Refuge](https://pinecast.com/listen/91e55911-62c3-4e0d-bdb6-7ebebcbcc307:d2479662-7f58-4468-b71b-055c37aac8d6.mp3?source=rss&ext=asset.mp3) {#tour-marais-des-cygnes-national-wildlife-refuge}
 
@@ -725,7 +725,7 @@ A wildlife refuge, from the 2024 convention.
 
 **Place:** Kansas
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Mount Rainier: Paradise Visitor Center](https://pinecast.com/listen/98fd0bb1-a4c6-46cd-b206-e846b5ad1c80.mp3?source=rss&ext=asset.mp3) {#tour-mount-rainier-paradise-visitor-center}
 
@@ -739,7 +739,7 @@ The visitor center high on the mountain.
 
 **Place:** Washington
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Natchez Trace Parkway](https://pinecast.com/listen/c25776a1-c293-4bad-b6d1-2178c36802e1.mp3?source=rss&ext=asset.mp3) {#tour-natchez-trace-parkway}
 
@@ -751,7 +751,7 @@ The historic road through Mississippi, Alabama and Tennessee.
 
 **Length:** 118 minutes
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [New River Gorge National Park and Preserve: Described Brochure](https://www.nps.gov/neri/planyourvisit/upload/0-Description-of-Quick-Overview.mp3) {#tour-new-river-gorge-national-park-and-preserve-described-brochure}
 
@@ -765,19 +765,19 @@ The park brochure in 13 clips, from the gorge's history to its bridge. The link 
 
 **Tracks:**
 
-- [Quick overview](https://www.nps.gov/neri/planyourvisit/upload/0-Description-of-Quick-Overview.mp3)
-- [An introduction](https://www.nps.gov/neri/planyourvisit/upload/1-Description-of-New-River-George_-An-Introduction.mp3)
-- [The river's natural and cultural history](https://www.nps.gov/neri/planyourvisit/upload/2-Description-of-The-River-s-Natural-and-Cultural-History.mp3)
-- [Tales of the three rivers](https://www.nps.gov/neri/planyourvisit/upload/3-Description-of-Tales-Of-Three-Rivers.mp3)
-- [Tales of the three rivers, in photos](https://www.nps.gov/neri/planyourvisit/upload/4-Description-of-Tales-of-Three-Rivers-in-Photos.mp3)
-- [On and off the water](https://www.nps.gov/neri/planyourvisit/upload/5-Description-of-On-and-Off-the-Water.mp3)
-- [On and off the water, in photos](https://www.nps.gov/neri/planyourvisit/upload/6-Description-of-On-and-Off-the-Water-in-Photos.mp3)
-- [The New River Gorge Bridge](https://www.nps.gov/neri/planyourvisit/upload/7-Description-of-The-New-River-Gorge-Bridge.mp3)
-- [Exploring the gorge](https://www.nps.gov/neri/planyourvisit/upload/8-Description-of-Exploring-New-River-Gorge.mp3)
-- [Park map](https://www.nps.gov/neri/planyourvisit/upload/9-Description-of-Park-Map.mp3)
-- [Safety](https://www.nps.gov/neri/planyourvisit/upload/10-Description-of-Safety.mp3)
-- [More information](https://www.nps.gov/neri/planyourvisit/upload/11-Description-of-More-Information.mp3)
-- [Accessibility](https://www.nps.gov/neri/planyourvisit/upload/12-Description-of-Accessibility.mp3)
+- [Quick overview](https://www.nps.gov/neri/planyourvisit/upload/0-Description-of-Quick-Overview.mp3) (1 minute)
+- [An introduction](https://www.nps.gov/neri/planyourvisit/upload/1-Description-of-New-River-George_-An-Introduction.mp3) (1 minute)
+- [The river's natural and cultural history](https://www.nps.gov/neri/planyourvisit/upload/2-Description-of-The-River-s-Natural-and-Cultural-History.mp3) (1 minute)
+- [Tales of the three rivers](https://www.nps.gov/neri/planyourvisit/upload/3-Description-of-Tales-Of-Three-Rivers.mp3) (3 minutes)
+- [Tales of the three rivers, in photos](https://www.nps.gov/neri/planyourvisit/upload/4-Description-of-Tales-of-Three-Rivers-in-Photos.mp3) (3 minutes)
+- [On and off the water](https://www.nps.gov/neri/planyourvisit/upload/5-Description-of-On-and-Off-the-Water.mp3) (1 minute)
+- [On and off the water, in photos](https://www.nps.gov/neri/planyourvisit/upload/6-Description-of-On-and-Off-the-Water-in-Photos.mp3) (2 minutes)
+- [The New River Gorge Bridge](https://www.nps.gov/neri/planyourvisit/upload/7-Description-of-The-New-River-Gorge-Bridge.mp3) (1 minute)
+- [Exploring the gorge](https://www.nps.gov/neri/planyourvisit/upload/8-Description-of-Exploring-New-River-Gorge.mp3) (3 minutes)
+- [Park map](https://www.nps.gov/neri/planyourvisit/upload/9-Description-of-Park-Map.mp3) (3 minutes)
+- [Safety](https://www.nps.gov/neri/planyourvisit/upload/10-Description-of-Safety.mp3) (1 minute)
+- [More information](https://www.nps.gov/neri/planyourvisit/upload/11-Description-of-More-Information.mp3) (1 minute)
+- [Accessibility](https://www.nps.gov/neri/planyourvisit/upload/12-Description-of-Accessibility.mp3) (1 minute)
 
 ### [Oconaluftee Visitor Center](https://pinecast.com/listen/926944b2-543d-4823-bcab-248fd7e82f65.mp3?source=rss&ext=asset.mp3) {#tour-oconaluftee-visitor-center}
 
@@ -791,7 +791,7 @@ At Great Smoky Mountains National Park.
 
 **Place:** North Carolina
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Riverlands Migratory Bird Sanctuary](https://pinecast.com/listen/b2d4a9d6-9dec-4db4-9259-fba13a840f0d.mp3?source=rss&ext=asset.mp3) {#tour-riverlands-migratory-bird-sanctuary}
 
@@ -805,7 +805,7 @@ A U.S. Army Corps of Engineers sanctuary.
 
 **Place:** near St. Louis, Missouri
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Sitka National Historical Park](https://pinecast.com/listen/8c4419f8-21e2-4b74-9a04-8af393d440da.mp3?source=rss&ext=asset.mp3) {#tour-sitka-national-historical-park}
 
@@ -819,7 +819,7 @@ The park's totem poles, forest and history.
 
 **Place:** Sitka, Alaska
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Wild River State Park](https://pinecast.com/listen/9a95ce60-fb0d-41a0-bcb8-058677e255bb:7d3143ee-0bc7-4d5a-9efe-0b2a1d758ce2.mp3?source=rss&ext=asset.mp3) {#tour-wild-river-state-park}
 
@@ -833,7 +833,7 @@ A Minnesota state park, from the 2024 convention.
 
 **Place:** Minnesota
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Wright Brothers National Memorial Visitor Center](https://pinecast.com/listen/6ac031bb-c4dd-47e2-9541-fd5f7606762b.mp3?source=rss&ext=asset.mp3) {#tour-wright-brothers-national-memorial-visitor-center}
 
@@ -847,7 +847,7 @@ Where the first powered flights took place.
 
 **Place:** Kill Devil Hills, North Carolina
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ## Natural History and Science (4) {#cat-natural-history-and-science}
 
@@ -863,7 +863,7 @@ A short nature experience.
 
 **Length:** 8 minutes
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [Chandra X-ray Observatory: Described Images](https://chandra.si.edu/photo/2025/casa/casa_description_audio.mp3) {#tour-chandra-x-ray-observatory-described-images}
 
@@ -877,17 +877,17 @@ Spoken descriptions of X-ray images of the universe, one recording for each imag
 
 **Tracks:**
 
-- [Bullet Cluster](https://chandra.si.edu/photo/2025/bullet/bullet_description_audio.mp3)
-- [Cassiopeia A](https://chandra.si.edu/photo/2025/casa/casa_description_audio.mp3)
-- [Centaurus A](https://chandra.si.edu/photo/2023/cena/cena_description_audio.mp3)
-- [Eta Carinae](https://chandra.si.edu/photo/2023/etacar/etacar_description_audio.mp3)
-- [Helix Nebula](https://chandra.si.edu/photo/2025/helix/helix_description_audio.mp3)
-- [Kepler's Supernova Remnant](https://chandra.si.edu/photo/2026/kepler/kepler_description_audio.mp3)
-- [M31, the Andromeda Galaxy](https://chandra.si.edu/photo/2025/m31/m31_description_audio.mp3)
-- [Sagittarius A*, the black hole at the center of the Milky Way](https://chandra.si.edu/photo/2022/sgra/sgra_description_audio.mp3)
-- [Tarantula Nebula](https://chandra.si.edu/photo/2026/30dor/30dor_description_audio.mp3)
-- [Tycho's Supernova Remnant](https://chandra.si.edu/photo/2023/tycho/tycho_description_audio.mp3)
-- [Westerlund 1](https://chandra.si.edu/photo/2024/wd1/wd1_description_audio.mp3)
+- [Bullet Cluster](https://chandra.si.edu/photo/2025/bullet/bullet_description_audio.mp3) (1 minute)
+- [Cassiopeia A](https://chandra.si.edu/photo/2025/casa/casa_description_audio.mp3) (2 minutes)
+- [Centaurus A](https://chandra.si.edu/photo/2023/cena/cena_description_audio.mp3) (1 minute)
+- [Eta Carinae](https://chandra.si.edu/photo/2023/etacar/etacar_description_audio.mp3) (2 minutes)
+- [Helix Nebula](https://chandra.si.edu/photo/2025/helix/helix_description_audio.mp3) (2 minutes)
+- [Kepler's Supernova Remnant](https://chandra.si.edu/photo/2026/kepler/kepler_description_audio.mp3) (2 minutes)
+- [M31, the Andromeda Galaxy](https://chandra.si.edu/photo/2025/m31/m31_description_audio.mp3) (3 minutes)
+- [Sagittarius A*, the black hole at the center of the Milky Way](https://chandra.si.edu/photo/2022/sgra/sgra_description_audio.mp3) (1 minute)
+- [Tarantula Nebula](https://chandra.si.edu/photo/2026/30dor/30dor_description_audio.mp3) (2 minutes)
+- [Tycho's Supernova Remnant](https://chandra.si.edu/photo/2023/tycho/tycho_description_audio.mp3) (1 minute)
+- [Westerlund 1](https://chandra.si.edu/photo/2024/wd1/wd1_description_audio.mp3) (1 minute)
 
 ### [Elephant Diorama](https://pinecast.com/listen/f1f83dc8-16c6-4c52-8e5e-7d71cbe8b777.mp3?source=rss&ext=asset.mp3) {#tour-elephant-diorama}
 
@@ -901,7 +901,7 @@ The elephant in the rotunda of the Smithsonian's National Museum of Natural Hist
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ### [The Insect Zoo](https://pinecast.com/listen/b98c8d65-15d2-4215-83b6-8deef84e911d.mp3?source=rss&ext=asset.mp3) {#tour-the-insect-zoo}
 
@@ -915,7 +915,7 @@ The live insect exhibit at the Smithsonian's National Museum of Natural History.
 
 **Place:** Washington, DC
 
-**Publisher:** American Council of the Blind, from its convention tours podcast
+**Publisher:** American Council of the Blind
 
 ## Apps {#apps}
 
